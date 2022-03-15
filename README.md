@@ -43,6 +43,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sheeluofficial&theme=buefy&layout=compact" />
 </a>
  </div>
+ <br/>
    <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
 
@@ -50,7 +51,6 @@
 <br/>
 <img alt="Sheelu kumar's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=sheeluofficial&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" />
 
-<br/>
 
 <h3>&nbsp;Visit my portfolio </h3>
 <!-- &nbsp;&nbsp;<a href="https://awesome-golick-6ddd51.netlify.app/" target="blank"><img alt="Website" src="https://img.shields.io/badge/Website-portfolio-blue?style=flat-square&logo=google-chrome"></a><br/> -->
