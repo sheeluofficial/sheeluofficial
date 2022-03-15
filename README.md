@@ -49,11 +49,11 @@
 
 <h3>&nbsp;Connect with Me </h3>
 <p align="center">
-<a href="https://www.linkedin.com/in/sheeluofficial/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-sheeluofficial%20singh-blue?style=flat-square&logo=linkedin"></a>
-<a href="mailto:sheeluofficial@gmail.com" target="_blank"><img alt="Email" src="https://img.shields.io/badge/Gmail-sheeluofficial%20singh-blue?style=flat-square&logo=gmail"></a>
+<a href="https://www.linkedin.com/in/sheeluofficial/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Sheelu%20Kumar-blue?style=flat-square&logo=linkedin"></a>
+<a href="mailto:sheeluofficial@gmail.com" target="_blank"><img alt="Email" src="https://img.shields.io/badge/Gmail-Sheelu%20Kumar-blue?style=flat-square&logo=gmail"></a>
 </p>
 
 #### &nbsp;&nbsp; Thank you for visiting my profile.
 
-⭐️ From [Jaskaran Singh](https://github.com/jaskaranpr)
+⭐️ From [Sheelu Kumar](https://github.com/sheeluofficial)
 
