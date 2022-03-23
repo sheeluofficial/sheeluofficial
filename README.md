@@ -53,7 +53,7 @@
 
 
 <h3>&nbsp;Visit my portfolio </h3>
-&nbsp;&nbsp;<a href="https://inspiring-carson-74cbab.netlify.app/" target="blank"><img alt="Website" src="https://img.shields.io/badge/Website-portfolio-blue?style=flat-square&logo=google-chrome"></a><br/>
+&nbsp;&nbsp;<a href="https://sheelu-kumar-portfolio.netlify.app/" target="blank"><img alt="Website" src="https://img.shields.io/badge/Website-portfolio-blue?style=flat-square&logo=google-chrome"></a><br/>
 
 <h3>&nbsp;Connect with Me </h3>
 <p align="center">
