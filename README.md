@@ -1,67 +1,19 @@
- <h2> Hey there! 👋 I'm Sheelu Kumar.</h2>
- <br/>
+<h1 align="center">Hi 👋, I'm Sheelu Kumar</h1>
+<h3 align="center">A passionate frontend developer from India</h3>
 
- <div><img align="right" alt="Github" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" /></div>
-
-<h3> &nbsp;About Me </h3>  
-
-- 🙂 &nbsp; Exploring new technologies and learning data structures and algorithms.
-- 🎓 &nbsp; Learning Web Development at masai school
-- 💼 &nbsp; Aspire to work as a MERN Stack developer.
-- 🌱 &nbsp; Currently learning React, AWS, TypeScript.
-- 👯‍♂️ &nbsp;&nbsp;Looking for Contributing to MERN stack projects with lots of learning and experience. &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Happy to Contribute in Opne source Projects<br>
-- 💬 &nbsp;&nbsp;Ask me about anything related to MERN stack and data structure & algorithms.I will be happy to help, if <br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I am unable then surely we will together towards learning new things.
-<br/>
-- ⚡ Fun fact: Passion for coding, enjoy listening musix and reading books.
-
-<h3> 🛠 &nbsp;Tech Stack</h3>
-
-- 🌐 &nbsp;
-  ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
-  ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-<!--   ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C) -->
-  ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
-  ![Express.js](https://img.shields.io/badge/-Express.js-333333?style=flat&logo=ExpressJS)
-  ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
-  ![Redux](https://img.shields.io/badge/-Redux-236799?style=flat&logo=redux)
-
-- 🛢 &nbsp;
-  ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
-
-- ⚙️ &nbsp;
-  ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-  ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
-- 🔧 &nbsp;
-  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-<!--   ![Atom](https://img.shields.io/badge/-Atom-333333?style=flat&logocolor=&logo=atom) -->
-<br/>
- <div>
-<h3>⚙️ GitHub Analytics</h3>
-<a href="https://github.com/sheeluofficial">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sheeluofficial&show_icons=true&theme=radical" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sheeluofficial&theme=buefy&layout=compact" />
-</a>
- </div>
- <br/>
-   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-
-
-<br/>
-<br/>
-<img alt="Sheelu kumar's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=sheeluofficial&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" />
-
-
-<h3>&nbsp;Visit my portfolio </h3>
-&nbsp;&nbsp;<a href="https://sheelu-kumar-portfolio.netlify.app/" target="blank"><img alt="Website" src="https://img.shields.io/badge/Website-portfolio-blue?style=flat-square&logo=google-chrome"></a><br/>
-
-<h3>&nbsp;Connect with Me </h3>
-<p align="center">
-<a href="https://www.linkedin.com/in/sheeluofficial/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Sheelu%20Kumar-blue?style=flat-square&logo=linkedin"></a>
-<a href="mailto:sheeluofficial@gmail.com" target="_blank"><img alt="Email" src="https://img.shields.io/badge/Gmail-Sheelu%20Kumar-blue?style=flat-square&logo=gmail"></a>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/sheeluofficial" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sheeluofficial" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/sheeluofficial" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="sheeluofficial" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/sheeluofficial" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sheeluofficial" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/sheeluofficial" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="sheeluofficial" height="30" width="40" /></a>
 </p>
 
-#### &nbsp;&nbsp; Thank you for visiting my profile.
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
 
-⭐️ From [Sheelu Kumar](https://github.com/sheeluofficial)
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sheeluofficial&show_icons=true&locale=en&layout=compact" alt="sheeluofficial" /></p>
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sheeluofficial&show_icons=true&locale=en" alt="sheeluofficial" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sheeluofficial&" alt="sheeluofficial" /></p>
